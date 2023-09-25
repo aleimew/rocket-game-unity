@@ -1,0 +1,30 @@
+{
+    "UxmlGuid": "8a97e42db1ad0e842887b5947c3b0f08",
+    "UxmlPath": "Assets/Editor/FuelUI.uxml",
+    "CanvasX": 3,
+    "CanvasY": 0,
+    "CanvasWidth": 431,
+    "CanvasHeight": 450,
+    "MatchGameView": false,
+    "ZoomScale": 0.8500000238418579,
+    "PanOffset": {
+        "x": 236.8209228515625,
+        "y": 71.61262512207031
+    },
+    "ColorModeBackgroundOpacity": 1.0,
+    "ImageModeCanvasBackgroundOpacity": 1.0,
+    "CameraModeCanvasBackgroundOpacity": 1.0,
+    "EnableCanvasBackground": false,
+    "CanvasBackgroundMode": 0,
+    "CanvasBackgroundColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+    },
+    "CanvasBackgroundImage": {
+        "instanceID": 0
+    },
+    "CanvasBackgroundImageScaleMode": 1,
+    "CanvasBackgroundCameraName": ""
+}
